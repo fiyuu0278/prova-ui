@@ -1,18 +1,22 @@
 {
   "format_version": 2,
   "header": {
+    "creator": "[fiyuu]",
+    "contributor": "[deviindrawati0001]",
     "name": "Prova UI",
-    "description": "A custom UI pack inspired by Phrolova - Wuthering waves\nTelegram: @fiyuu0278 [https://t.me/fiyuu0278] .",
+    "description": "A custom UI pack based on Phrolova - Wuthering waves\nTelegram: @fiyuu0278 [https://t.me/fiyuu0278] .",
     "uuid": "a4f81c03-25e6-4c35-b3d1-e91665b055af",
-    "version": [1, 0, 0],
+    "version": [1, 0, 1],
     "min_engine_version": [1, 20, 0]
   },
-
   "modules": [
     {
       "type": "resources",
       "uuid": "b6b5c6ef-d85d-4d48-9a8b-4cc433c59ad9",
-      "version": [1, 0, 0]
+      "version": [1, 0, 1]
     }
+  ],
+  "changelogs": [
+    "v1.0: Created folder and nothing special"
   ]
 }
